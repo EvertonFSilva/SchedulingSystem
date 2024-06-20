@@ -23,7 +23,7 @@ public class LoginFrame extends JFrame {
 	private JPasswordField passwordField;
 
     public LoginFrame() {
-        setTitle("ReumaCare - Login");
+        setTitle("Login");
         setSize(300, 250);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
